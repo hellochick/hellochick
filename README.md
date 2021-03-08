@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhellochick%2F&count_bg=%2379C83D&title_bg=%23555555&icon=microbit.svg&icon_color=%2309EEF9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![](https://github-readme-stats.vercel.app/api?username=hellochick&show_icons=true&hide=contribs&theme=radical)
