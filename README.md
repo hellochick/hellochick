@@ -1,6 +1,4 @@
 ### Hi there, I'm <img src="https://hsuan-kung.netlify.app/assets/img/hsuankung-calligraphy.png" width="80"/> 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhellochick%2F&count_bg=%2379C83D&title_bg=%23555555&icon=microbit.svg&icon_color=%2309EEF9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 - 🔭 I’m currently a PhD Student in Taiwan.
 - 🚀 I'm interested in computer vision (CV) and reinforcement learning (RL).
 - 📫 I'm seeking the opportunity of research | applied scientist. 
