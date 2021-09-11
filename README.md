@@ -7,6 +7,9 @@
 * Linkedin - [Hsuan-Kung Yang](https://www.linkedin.com/in/hsuankung-a4b288152/?locale=en_US)
 * Email - [hellochick@gapp.nthu.edu.tw](hellochick@gapp.nthu.edu.tw)
 
+<img src="https://user-images.githubusercontent.com/18046598/132939860-2831d3b7-2c05-4ff7-a909-863c7328d56a.png" width="200">
+
+
 <!--
 **hellochick/hellochick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
