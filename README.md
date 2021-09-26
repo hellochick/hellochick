@@ -1,7 +1,6 @@
 ### Hi there, I'm <img src="https://hsuan-kung.netlify.app/assets/img/hsuankung-calligraphy.png" width="80"/> 👋
 - 🔭 I’m currently a PhD Student in Taiwan.
 - 🚀 I'm interested in computer vision (CV) and reinforcement learning (RL).
-- 📫 I'm seeking the opportunity of research | applied scientist. 
 
 ### Get in touch ☕
 * Linkedin - [Hsuan-Kung Yang](https://www.linkedin.com/in/hsuankung-a4b288152/?locale=en_US)
