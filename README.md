@@ -1,6 +1,6 @@
-### Hi there, I'm <img src="https://hsuan-kung.netlify.app/assets/img/hsuankung-calligraphy.png" width="80"/> 👋
-- 🔭 I’m currently a PhD Student in Taiwan.
-- 🚀 I'm interested in computer vision (CV) and reinforcement learning (RL).
+### Hi there, I am <img src="https://hsuan-kung.netlify.app/assets/img/hsuankung-calligraphy.png" width="80"/> 👋
+- 🔭 I am a PhD Student in Taiwan.
+- 🚀 I am interested in computer vision (CV) and reinforcement learning (RL).
 - ⚡ I work at [Woven Planet, Japan](https://www.woven-planet.global/en) as a research scientist!  
 
 ### Get in touch ☕
