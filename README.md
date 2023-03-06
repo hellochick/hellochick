@@ -1,4 +1,4 @@
-### Hi there, I am <img src="https://hsuan-kung.netlify.app/assets/img/hsuankung-calligraphy.png" width="80"/> 👋
+### Hi there 👋,
 - 🔭 I am a PhD Student in Taiwan.
 - 🚀 I am interested in computer vision (CV) and reinforcement learning (RL).
 - ⚡ I work at [Woven Planet, Japan](https://www.woven-planet.global/en) as a research scientist!  
@@ -6,10 +6,10 @@
 ### Get in touch ☕
 * Linkedin - [Hsuan-Kung Yang](https://www.linkedin.com/in/hsuankung-a4b288152/?locale=en_US)
 * Email - [hellochick@gapp.nthu.edu.tw](hellochick@gapp.nthu.edu.tw)
-
+<!-- 
 <img src="https://user-images.githubusercontent.com/18046598/132939860-2831d3b7-2c05-4ff7-a909-863c7328d56a.png" width="200">
 
-
+ -->
 <!--
 **hellochick/hellochick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -23,9 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Stats ⚡
-![](https://github-readme-stats.vercel.app/api?username=hellochick&show_icons=true&hide=contribs&theme=radical)
-
-
-
