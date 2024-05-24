@@ -5,7 +5,7 @@
 
 ### Get in touch ☕
 * Linkedin - [Hsuan-Kung Yang](https://www.linkedin.com/in/hsuankung-a4b288152/?locale=en_US)
-* Email - [hellochick@gapp.nthu.edu.tw](hellochick@gapp.nthu.edu.tw)
+* Email - [hsuan.kung.yang@gmail.com](mailto:hsuan.kung.yang@gmail.com)
 <!-- 
 <img src="https://user-images.githubusercontent.com/18046598/132939860-2831d3b7-2c05-4ff7-a909-863c7328d56a.png" width="200">
 
