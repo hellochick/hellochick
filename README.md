@@ -1,7 +1,7 @@
 ### Hi there 👋,
 - 🔭 I am a PhD Student in Taiwan.
 - 🚀 I am interested in computer vision (CV) and reinforcement learning (RL).
-- ⚡ I work at [Woven Planet, Japan](https://www.woven-planet.global/en) as a research scientist!  
+- ⚡ I am working for [Woven City](https://www.woven-city.global/) as a research scientist at [Woven by Toyota](https://woven.toyota/en/).
 
 ### Get in touch ☕
 * Linkedin - [Hsuan-Kung Yang](https://www.linkedin.com/in/hsuankung-a4b288152/?locale=en_US)
